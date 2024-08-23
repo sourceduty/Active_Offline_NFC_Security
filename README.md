@@ -26,4 +26,4 @@ Moreover, integrating NFC security tags with a dedicated mobile app aligns with 
 [Survival Expert](https://chat.openai.com/g/g-J4RLVmtT5-survival-expert)
 
 ***
-Copyright (C) 2024, Sourceduty - All Rights Reserved.
+🛈 This information is free and open-source; anyone can redistribute it and/or modify it.
