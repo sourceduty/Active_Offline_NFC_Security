@@ -16,6 +16,8 @@ Moreover, integrating NFC security tags with a dedicated mobile app aligns with 
 
 > Alex: "*This is a very innovative security idea for lost and stolen smartphone security.*"
 
+> "*The dedicated mobile app allows anyone who identifies themselves to also identify a stolen or lost phone.*"
+
 #
 ### Related Links
 
