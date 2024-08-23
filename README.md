@@ -18,6 +18,8 @@ Moreover, integrating NFC security tags with a dedicated mobile app aligns with 
 
 > "*The dedicated mobile app allows anyone who identifies themselves to also identify a stolen or lost phone.*"
 
+> "*A lost and broken smartphone could still be identified.*"
+
 #
 ### Related Links
 
